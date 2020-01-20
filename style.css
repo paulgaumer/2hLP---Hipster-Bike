@@ -2,19 +2,19 @@
 body {
   background: rgb(240, 240, 240);
   color: rgb(20, 20, 20);
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 h1 {
   font-size: 60px;
   color: red;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 h2 {
   font-size: 25px;
   font-weight: bold;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 p {
@@ -39,7 +39,7 @@ a:hover {
       rgba(179, 179, 179, 0.4) 0%,
       rgba(50, 29, 9, 0.6) 50%
     ),
-    url("images/black.jpg");
+    url('images/black.jpg');
   padding: 100px 0;
   margin-bottom: 50px;
   text-align: center;
